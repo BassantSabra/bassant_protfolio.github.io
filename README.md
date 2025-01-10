@@ -16,12 +16,14 @@ Welcome to my GitHub profile! I am a data analyst with a strong foundation in re
 
  # projects 
  
- ## EDA of telecommunication cells
+ -**EDA of telecommunication cells**
  [![GitHub](https://img.shields.io/github/followers/username?label=Follow&style=social)](https://github.com/BassantSabra/EDA-project-for-Telecommunication-dataset)
  
 
-
 ![image](https://github.com/user-attachments/assets/e5d059d5-d42e-4bf5-ae46-6b9b0b5f666b)
+
+
+
 
 
 
