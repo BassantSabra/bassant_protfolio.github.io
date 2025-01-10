@@ -12,7 +12,19 @@ Welcome to my GitHub profile! I am a data analyst with a strong foundation in re
 - **Languages:** Python, SQL
 - **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Databases:** Microsoft SQL server
-- **Tools:** Excel , Power BI, Jupyter 
+- **Tools:** Excel , Power BI, Jupyter
+
+ ## projects 
+[# EDA of telecommunication cells](https://github.com/BassantSabra/EDA-project-for-Telecommunication-dataset)
+![image](https://github.com/user-attachments/assets/0a96c9cc-27dd-4b1c-a5c5-2cfe1b0fe02c)
+
+
+
+
+
+
+
+
 
 Thank you for visiting my profile! Feel free to explore my repositories, and let's connect to share knowledge and insights.
 <!---
