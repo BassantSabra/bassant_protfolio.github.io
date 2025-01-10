@@ -15,8 +15,13 @@ Welcome to my GitHub profile! I am a data analyst with a strong foundation in re
 - **Tools:** Excel , Power BI, Jupyter
 
  ## projects 
+ 
 [# EDA of telecommunication cells](https://github.com/BassantSabra/EDA-project-for-Telecommunication-dataset)
-![image](https://github.com/user-attachments/assets/0a96c9cc-27dd-4b1c-a5c5-2cfe1b0fe02c)
+
+
+
+![image](https://github.com/user-attachments/assets/e5d059d5-d42e-4bf5-ae46-6b9b0b5f666b)
+
 
 
 
