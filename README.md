@@ -27,7 +27,6 @@ Welcome to my GitHub profile! I am a data analyst with a strong foundation in re
  [**AdventureWorks Order & Product Analysis**](https://github.com/BassantSabra/AdventureWorks-Order-Product-Dashboard)
 
 
- ![Screenshot 2024-11-23 192630](https://github.com/user-attachments/assets/3f585e58-5c9c-4120-afc1-9b9287f6a0c7)
 
   
 
