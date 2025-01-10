@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a data analyst with a strong foundation in re
 - **Tools:** Excel , Power BI, Jupyter
 
 ## 🌟 Featured Projects
-
+   <div align="center">
 - [**EDA of telecommunication cells**](https://github.com/BassantSabra/EDA-project-for-Telecommunication-dataset)
   ![image](https://github.com/user-attachments/assets/e5d059d5-d42e-4bf5-ae46-6b9b0b5f666b)
   
@@ -28,13 +28,9 @@ Welcome to my GitHub profile! I am a data analyst with a strong foundation in re
 - [**ML Deployment**](https://github.com/BassantSabra/ML-Deployment) - Production deployment of ML models
 
 
-## 📫 Let's Connect!
-Feel free to reach out for collaborations or questions!
 
-[LinkedIn](www.linkedin.com/in/bassant-ahmed-sabra-25a07789) | [Email](bassant.abdelhady@alexu.edu.eg) | [Portfolio](#)
 
----
-*"Code is like humor. When you have to explain it, it's bad." – Cory House* 💭
+
 
 
 
