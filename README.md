@@ -24,13 +24,14 @@ Welcome to my GitHub profile! I am a data analyst with a strong foundation in re
   ![image](https://github.com/user-attachments/assets/e5d059d5-d42e-4bf5-ae46-6b9b0b5f666b)
   
   
-- [**AdventureWorks Order & Product Analysis**](https://github.com/BassantSabra/AdventureWorks-Order-Product-Dashboard)
+ [**AdventureWorks Order & Product Analysis**](https://github.com/BassantSabra/AdventureWorks-Order-Product-Dashboard)
+
+
+ ![Screenshot 2024-11-23 192630](https://github.com/user-attachments/assets/3f585e58-5c9c-4120-afc1-9b9287f6a0c7)
+
   
 
-### 📊 Data Analysis & Machine Learning
-- [**Data Analysis Projects**](https://github.com/BassantSabra/Data-Analysis-Projects) - Collection of data science implementations
-- [**Machine Learning**](https://github.com/BassantSabra/Machine-Learning) - ML algorithms and models
-- [**ML Deployment**](https://github.com/BassantSabra/ML-Deployment) - Production deployment of ML models
+
 
 
 
