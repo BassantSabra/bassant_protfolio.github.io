@@ -16,7 +16,7 @@ I am a data analyst with a strong foundation in research. I am driven by a passi
 
 ## 🌟 Featured Projects
 
- -[**Exploratory data analysis of Telecomuncations compay with real dataset using python**](https://github.com/BassantSabra/EDA-project-for-Telecommunication-dataset) 
+ -[**Exploratory data analysis of real dataset for telecommunications company using python**](https://github.com/BassantSabra/EDA-project-for-Telecommunication-dataset) 
  
  -[**customer-segmentation-by-RFM-analysis- using Excel**](https://github.com/BassantSabra/customer-segmentation-by-RFM-analysis-)
 
