@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a data analyst with a strong foundation in re
 
 ## 🌟 Featured Projects
 
- -[** Exploratory data analysis of Telecomuncations compay cusing python**](https://github.com/BassantSabra/EDA-project-for-Telecommunication-dataset) 
+ -[**Exploratory data analysis of Telecomuncations compay cusing python**](https://github.com/BassantSabra/EDA-project-for-Telecommunication-dataset) 
  
  -[**customer-segmentation-by-RFM-analysis- using excel**](https://github.com/BassantSabra/customer-segmentation-by-RFM-analysis-)
 
