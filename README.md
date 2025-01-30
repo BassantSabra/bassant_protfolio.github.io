@@ -18,9 +18,9 @@ I am a data analyst with a strong foundation in research. I am driven by a passi
 
  -[**Exploratory data analysis of Telecomuncations compay with real dataset using python**](https://github.com/BassantSabra/EDA-project-for-Telecommunication-dataset) 
  
- -[**customer-segmentation-by-RFM-analysis- using excel**](https://github.com/BassantSabra/customer-segmentation-by-RFM-analysis-)
+ -[**customer-segmentation-by-RFM-analysis- using Excel**](https://github.com/BassantSabra/customer-segmentation-by-RFM-analysis-)
 
- -[**super store analytics using Power BI**](https://github.com/BassantSabra/Super-store-sales-analytics-)
+ -[**End to End super store analytics using Power BI**](https://github.com/BassantSabra/Super-store-sales-analytics-)
  
 
 
