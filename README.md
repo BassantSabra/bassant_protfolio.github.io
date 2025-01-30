@@ -5,7 +5,7 @@ I am a data analyst with a strong foundation in research. I am driven by a passi
 ## 🚀 About Me
 - 🌱 I’m currently learning advanced machine learning techniques and exploring big data technologies.
 - 💼 I’m looking for opportunities in data science and analytics to apply my skills in real-world scenarios.
-- 📫 How to reach me: bassant.abdelhady@alexu.edu.eg         whatsapp_number:00201148844676
+- 📫 How to reach me: bassant.abdelhady@alexu.edu.eg or whatsapp_number:00201148844676
 
 ## 🛠️ Technologies & Tools
 
@@ -15,6 +15,8 @@ I am a data analyst with a strong foundation in research. I am driven by a passi
 - **Tools:** Excel , Power BI, Jupyter
 
 ## 🌟 Featured Projects
+
+  <span style="color:blue">[**Exploratory data analysis of Telecommunications company with real dataset using python**](https://github.com/BassantSabra/EDA-project-for-Telecommunication-dataset)</span>
 
  -[**Exploratory data analysis of Telecomuncations compay with real dataset using python**](https://github.com/BassantSabra/EDA-project-for-Telecommunication-dataset) 
  
