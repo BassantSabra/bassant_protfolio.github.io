@@ -20,6 +20,9 @@ Welcome to my GitHub profile! I am a data analyst with a strong foundation in re
  
  -[**customer-segmentation-by-RFM-analysis- using excel**](https://github.com/BassantSabra/customer-segmentation-by-RFM-analysis-)
 
+ -[**super store analytics using Power BI**](https://github.com/BassantSabra/Super-store-sales-analytics-)
+ 
+
 
   
 
